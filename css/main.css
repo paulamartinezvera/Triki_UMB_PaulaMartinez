@@ -23,20 +23,20 @@ body #tablero .celda {
 }
 body #tablero .fila:nth-child(1),
 body #tablero .fila:nth-child(2) {
-  border-bottom: solid 10px #285f8f;
+  border-bottom: solid 10px #000000;
 }
 body #tablero .celda:nth-child(1),
 body #tablero .celda:nth-child(2) {
-  border-right: solid 10px #285f8f;
+  border-right: solid 10px #000000;
 }
 body #tablero .user {
-  color: #337ab7;
+  color: #000000;
 }
 body #tablero .pc {
-  color: #c7ddef;
+  color: #000000;
 }
 body #tablero .gano {
-  background-color: #9fc4e4;
+  background-color: #E6E0F8;
 }
 body #controles label,
 body #controles input {
